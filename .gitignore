@@ -1,0 +1,7 @@
+# Codex local state and generated working files
+.codex/
+.codex_tmp/
+.codex-*/
+.codex.*
+codex_tmp/
+
