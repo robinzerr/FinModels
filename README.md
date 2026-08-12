@@ -1,3 +1,5 @@
 # FinModels
-List of companies financial models - Learning as I go \n
+
+List of companies financial models — learning as I go.
+
 More to come!
