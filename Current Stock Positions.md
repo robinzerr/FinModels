@@ -1,3 +1,3 @@
-#Current Thesis 
+#CurrentThesis 
 
 TSLA: Neutral - Looking for expansion of robotaxi to make any reasonable conclusions
